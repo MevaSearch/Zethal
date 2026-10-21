@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://zethal.mevasearch.com/img/logo-dark.png?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://zethal.mevasearch.com/img/logo-dark.png?v=3733">
     <img src="https://zethal.mevasearch.com/img/logo.png" width="72" height="72" alt="Zethal Framework logo">
   </picture>
 </p>
@@ -21,7 +21,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://zethal.mevasearch.com/screens/home-dark.webp?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://zethal.mevasearch.com/screens/home-dark.webp?v=3733">
     <img src="https://zethal.mevasearch.com/screens/home-light.webp" alt="Zethal Framework home page" width="860">
   </picture>
 </p>
