@@ -1,0 +1,160 @@
+SA-SDL - Source-Available Software Distribution License
+Version 1.0
+
+© 2025 - 2026 WebOrbiton Team
+
+Date: 2026-01-01
+
+Full text: https://legal.weborbiton.com/license
+Commercial license: https://legal.weborbiton.com/commercial-license
+
+
+1. GENERAL PROVISIONS AND COPYRIGHT
+
+The software provided under this License (“Software”) is made available
+as "source-available" and is subject to the terms of this License.
+
+All copyrights to the Software (including but not limited to source code,
+such as PHP, JS, HTML, CSS, configuration files, and other original elements),
+excluding any third-party libraries or components used, which remain subject
+to their own respective licenses, belong to the entity or individual providing
+the Software (the “Licensor”).
+
+Definitions:
+
+- Licensee: any person or legal entity that uses the Software.
+- Project: any application, service, platform, or system that uses the Software.
+- Commercial Project: Software (original or modified) offered directly as a
+  standalone product, paid service, SaaS solution, subscription tool, or as
+  part of an offer whose primary value is the Software itself.
+
+The Licensee has the right to modify the Software in any manner, including:
+
+- changing function or variable names, project structure, or internal markings,
+- creating forks and derivative works,
+- adapting the Software for personal, internal, or organizational needs.
+
+Attribution (author or Licensor information) is not required, but is
+appreciated.
+
+
+2. USE OF THE SOFTWARE IN FREE AND COMMERCIAL PROJECTS
+
+The Software may be used in any Project, including Projects that generate
+revenue, such as through:
+
+- donations,
+- advertisements,
+- sale of products or services,
+- hosting services,
+- online stores,
+- paid features or subscriptions within a larger Project,
+- affiliate programs.
+
+Such use DOES NOT require the Licensor’s consent, provided that the Software
+is not offered directly as a standalone product or as a paid service or
+subscription whose primary value is the Software itself.
+
+Example:
+
+Using the Software as a component (e.g. status page, internal tool,
+administration panel, or supporting system) within a revenue-generating
+service does not require consent under this License.
+
+
+3. CONDITIONS FOR SOFTWARE OFFERED AS A PAID PRODUCT OR SERVICE
+
+If the Software (original or modified) is offered directly as a standalone
+product, paid service, or subscription, and the gross monthly revenue
+generated primarily by the Software exceeds 1500 USD (or the equivalent in
+another currency), the Licensee is obliged to:
+
+1. Within 60 days of exceeding this revenue threshold, submit the Project to
+   the Licensor for review using a communication channel designated by the
+   Licensor.
+
+2. Obtain approval for continued commercial use of the Software within
+   90 days from the date of submission.
+
+Example:
+
+If the Licensee offers the Software as a paid application, subscription, or
+SaaS solution whose main purpose is the Software itself and which generates
+revenue exceeding the defined threshold per month, submission to the
+Licensor is required.
+
+Using the Software as a component of a larger revenue-generating service
+does NOT require submission.
+
+The Licensor commits to issuing a decision within 60 days of receiving a
+complete submission.
+
+Lack of approval or explicit refusal obliges the Licensee to immediately
+cease commercial use of the Software or obtain a separate commercial license.
+
+Failure to comply with these rules, or continuation of commercial activity
+after refusal, constitutes a violation of this License.
+
+
+4. TRADEMARKS AND BRANDING
+
+Any names, logos, icons, favicons, or other branding elements associated with
+the Software may constitute trademarks or protected identifiers of the
+Licensor (“Trademarks”), unless explicitly stated otherwise.
+
+Rules for the use of Trademarks:
+
+- Trademarks may be used locally for testing, development, or non-public use.
+- Trademarks must not be distributed, published, or used in public Projects
+  or as branding elements without permission.
+- Any public or commercial use of Trademarks requires prior consent from the
+  Licensor.
+
+This License does not grant any rights to use the Licensor’s Trademarks.
+
+
+5. WARRANTY AND LIABILITY
+
+The Software is provided “AS IS”, WITHOUT ANY WARRANTY, express or implied,
+including but not limited to warranties of merchantability, fitness for a
+particular purpose, or non-infringement.
+
+The Licensor shall not be liable for:
+
+- any direct or indirect damages arising from the use of the Software,
+- loss of data,
+- system failures or malfunctions,
+- loss of revenue or profits.
+
+To the maximum extent permitted by applicable law, the Licensor’s total
+liability under this License shall not exceed 1.00 USD.
+
+
+6. LICENSE VIOLATION AND TERMINATION
+
+Any violation of the terms of this License results in the automatic and
+immediate termination of all rights granted to the Licensee under this
+License, without prior notice.
+
+Upon termination, the Licensee must cease all use of the Software that
+violates this License.
+
+All disputes arising from or related to this License shall be governed by the
+laws of the Republic of Poland and shall be subject to the exclusive
+jurisdiction of the competent courts of that jurisdiction.
+
+
+7. LICENSE VERSIONS AND FINAL PROVISIONS
+
+A Licensee who has obtained the Software under this version of the License
+retains the right to use the Software under its terms, even if the Licensor
+publishes a newer version of the License.
+
+Any exceptions, additional permissions, commercial licenses, or individual
+agreements must be granted explicitly and in writing by the Licensor.
+
+By using, copying, modifying, or distributing the Software, the Licensee
+acknowledges that they have read, understood, and accepted the terms of this
+License.
+
+END OF DOCUMENT

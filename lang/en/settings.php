@@ -1,0 +1,56 @@
+<?php
+
+return [
+    'title'          => 'Settings',
+    'lead'           => 'Your preferences are stored only in this browser. Nothing is sent to the server.',
+    'sec_appearance' => 'Appearance',
+    'sec_search'     => 'Search',
+    'sec_privacy'    => 'Privacy',
+    'sec_ai'         => 'AI',
+    'sec_data'       => 'Your data',
+
+    'language'        => 'Language',
+    'language_hint'   => 'Interface language.',
+    'theme'           => 'Theme',
+    'theme_hint'      => 'Follow the system or pick a mode.',
+    'theme_system'    => 'System',
+    'theme_light'     => 'Light',
+    'theme_dark'      => 'Dark',
+    'capsule'         => 'Page capsule',
+    'capsule_hint'    => 'Show pages inside a rounded frame.',
+    'compact'         => 'Compact results',
+    'compact_hint'    => 'Fit more results on the screen.',
+    'shortcuts'       => 'Shortcuts',
+    'shortcuts_hint'  => 'Show your shortcuts on the home page.',
+
+    'per_page'        => 'Results per page',
+    'safe'            => 'SafeSearch',
+    'safe_hint'       => 'Filter explicit content.',
+    'safe_strict'     => 'Strict',
+    'safe_moderate'   => 'Moderate',
+    'safe_off'        => 'Off',
+    'new_tab'         => 'Open results in a new tab',
+    'bangs'           => '!bang shortcuts',
+    'bangs_hint'      => 'Type them in the search box to jump straight to a site.',
+
+    'strip'           => 'Remove tracking parameters',
+    'strip_hint'      => 'Strips utm_, fbclid, gclid and similar tags from result links.',
+    'hidden'          => 'Hidden domains',
+    'hidden_hint'     => 'One domain per line. Results from these sites will not be shown.',
+
+    'ai_summary'      => 'AI summary',
+    'photo'           => 'Search with a photo',
+    'photo_hint'      => 'Use the camera icon in the search box. Photos are resized in your browser before they are sent. Without an AI model the file name is used.',
+    'ai_summary_hint' => 'Show a short answer above the results. Without an AI model it is built from the top results.',
+
+    'clear'           => 'Clear local data',
+    'clear_hint'      => 'Removes your settings and shortcuts from this browser.',
+    'clear_btn'       => 'Clear',
+    'reset'           => 'Reset',
+    'save'            => 'Save',
+
+    'js_saved'        => 'Settings saved',
+    'js_reset'        => 'Settings reset',
+    'js_cleared'      => 'Local data cleared',
+    'js_clear_confirm'=> 'Remove all settings and shortcuts from this browser?',
+];
